@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning vue.js.
+- 🌱 I’m currently learning vue.js (version 3) and tailwindCSS.
 
-- 🤔 I’m looking for help with gohugo.
+- 🤔 I’m looking for help with chrome extension.
 - 💬 Ask me about making projects.
 - 📫 How to reach me: linkedin
 <!--
